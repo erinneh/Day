@@ -1,40 +1,38 @@
 html {
   height: 100%;
+  margin-left: 50px;
+   background-image: url("https://image.freepik.com/free-vector/abstract-geometric-pattern-background_1319-242.jpg");
+
 }
 
-* {
-margin: 0;
-padding: 0;
-}
 
 body {
   font-family: 'Roboto Condensed', sans-serif;
   min-height: 100%;
-  background-color: #eeeeee;
+  background-color: #D3C297;
 }
 
 
 #identified {
-
   font-style: oblique;
-  color: #3CB2c4;
+  color: #ffffff;
 
 }
 
 #beginning {
-  background-color: #3CB2c4;
+  background-color: #D3C297;
 }
 
 #start {
-  background-color: #dddddd;
+  background-color: #D3C297;
 }
 
 #middle {
-  background-color: #cccccc;
+  background-color: #D3C297;
 }
 
 #end {
-  background-color: #dddddd;
+  background-color: #D3C297;
 }
 
 .me {
@@ -43,7 +41,7 @@ body {
 }
 
 h1 {
- color:#ffffff;
+ color:#03264C;
  font-size: 200%;
 }
 
@@ -52,8 +50,8 @@ color:#03264C;
 }
 
 h3 {
+
 color:#ff494f;
-background-color: 777777;
 }
 
 p {
@@ -66,4 +64,8 @@ color:#ff494f;
 
 nav {
   color:#ff494f;
+}
+
+hr {
+  border-color: #ffffff;
 }
